@@ -8,9 +8,9 @@ Felipe-Bar/Felipe-Bar is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 <div align="center">
-  <a href="https://github.com/Felipe-Bar">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Felipe-Bar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Bar&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/aeFelipe2004">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aeFelipe2004&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeFelipe2004&layout=compact&langs_count=7&theme=dracula"/>
 </div>
    
    
@@ -27,9 +27,7 @@ You can click the Preview link to take a look at your changes.
    
    ##
    
- <div>
-<a href="https://instagram.com/sx_felip3" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/luizfelipe01/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href = "mailto:felipe2004try@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alvo ="_blank"></a>
   <a href="https://app.rocketseat.com.br/me/felipepereira001" target="_blank"><img src="https://img.shields.io/badge/-ROCKETSEAT-%23E4405F?style=for-the-badge&logo=ROCKETSEAT&logoColor=white" target="_blank"></a>
   </div>
