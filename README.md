@@ -1,12 +1,8 @@
 ## Olá! sou Felipe Pereira , 19 anos
 -💻 ciência da computação 5/8
--🧠 learning cybersecurity
+-🧠 learning in cybersecurity
 -🧠 Estágios • trabalhos home office
 
-<!---
-Felipe-Bar/Felipe-Bar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 <div align="center">
   <a href="https://github.com/aeFelipe2004">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aeFelipe2004&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -27,7 +23,6 @@ You can click the Preview link to take a look at your changes.
    
    ##
    
-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href = "mailto:felipe2004try@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alvo ="_blank"></a>
   <a href="https://app.rocketseat.com.br/me/felipepereira001" target="_blank"><img src="https://img.shields.io/badge/-ROCKETSEAT-%23E4405F?style=for-the-badge&logo=ROCKETSEAT&logoColor=white" target="_blank"></a>
   </div>
